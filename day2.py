@@ -70,3 +70,25 @@ b = str(a)
 # str to int
 x = "456"
 y = int(x)
+
+
+
+#q1
+while True:
+    user_input = input("You: ")
+    if user_input.lower() == "stop":
+        print("Bot: by")
+        break
+    else:
+        print("Bot: ur soo intresting tell me something more about u...")
+
+
+# q2
+
+while True:
+    response = input("submitted your assignment? ").strip().lower()
+    if response == "done":
+        print("nice")
+        break
+    else:
+        print("doo it fast stupid ")
