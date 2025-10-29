@@ -17,7 +17,7 @@ print(y+1,id(y))
 
 
 #object referance
-new_name = "ram"
+new_name = "krishiv"
 print(new_name,id(new_name))
 old_name = new_name
 print(new_name,id(new_name), old_name, id(old_name))
