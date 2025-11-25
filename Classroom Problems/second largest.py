@@ -1,8 +1,4 @@
-numbers = []
-
-for i in range(10):
-    num = float(input(f"Enter number: "))
-    numbers.append(num)
+numbers = [10,4,5,3,7,2,8,9,1,6]
 
 numbers.sort()
 
