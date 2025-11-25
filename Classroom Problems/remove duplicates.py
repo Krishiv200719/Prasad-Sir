@@ -1,8 +1,4 @@
-numbers = []
-
-for i in range(10):
-    num = int(input(f"Enter number: "))
-    numbers.append(num)
+numbers = [10,3,4,6,7,9,8,2,3,1,4,5,6,7,8,9,10]
 
 unique_list = []
 
