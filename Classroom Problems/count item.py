@@ -1,8 +1,4 @@
-items = []
-
-for i in range(10):
-    value = input(f"Enter item: ")
-    items.append(value)
+items = [10,3,4,6,7,9,8,2,3,1,4,5,6,7,8,9,10]
 
 count_dict = {}
 
