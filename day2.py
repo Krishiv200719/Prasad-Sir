@@ -91,4 +91,4 @@ while True:
         print("nice")
         break
     else:
-        print("doo it fast stupid ")
+        print("Complete it asap!")
